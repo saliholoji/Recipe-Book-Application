@@ -2,6 +2,14 @@
 
 A comprehensive Recipe Book application written in C#. This application allows users to save, manage, and share their favorite recipes seamlessly. Below are the key features and functionalities of the application:
 
+![1](https://github.com/user-attachments/assets/7c6bf5c2-6df7-432b-a6e0-55fcb14c5cc9)
+
+![2](https://github.com/user-attachments/assets/17045112-9017-4689-b4de-0769d19f32c7)
+
+![3](https://github.com/user-attachments/assets/daada79d-401a-4f1d-9fa2-c17ec51bff0e)
+
+![4](https://github.com/user-attachments/assets/0362020c-fe51-4d8c-b15b-d74f081067ab)
+
 ## ✨ Features
 
 - **Recipe Management**: Users can save their favorite recipes with details such as ingredients, steps, and photos.
